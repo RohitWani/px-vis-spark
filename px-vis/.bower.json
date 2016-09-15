@@ -1,6 +1,6 @@
 {
   "name": "px-vis",
-  "version": "0.1.33",
+  "version": "0.3.9",
   "main": [
     "px-vis.html"
   ],
@@ -20,7 +20,7 @@
     "numbro-element": "~1.0.4",
     "px-colors-design": "~0.2.15",
     "px-rangepicker": "~1.1.0",
-    "px-tooltip": "~0.7.0",
+    "px-tooltip": "#vis-tooltip",
     "px-popover": "~1.4.0",
     "px-theme": "~0.8.0",
     "px": "~1.4.0",
@@ -38,16 +38,17 @@
     "web-component-tester": "~3.3.14"
   },
   "resolutions": {
-    "numbro": "1.7.1"
+    "numbro": "1.7.1",
+    "px-tooltip": "vis-tooltip"
   },
   "homepage": "https://github.com/PredixDev/px-vis",
-  "_release": "0.1.33",
+  "_release": "0.3.9",
   "_resolution": {
     "type": "version",
-    "tag": "v0.1.33",
-    "commit": "794a2e2c36d57920913664ba04ca035fc050dedf"
+    "tag": "v0.3.9",
+    "commit": "c9e8be3ae87dc79613aee36cbff5f59c259e8d49"
   },
   "_source": "https://github.com/PredixDev/px-vis.git",
-  "_target": "~0.1.20",
+  "_target": "~0.3.9",
   "_originalSource": "px-vis"
 }

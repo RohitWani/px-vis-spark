@@ -1,3 +1,19 @@
+v0.1.1
+==================
+* Commented out failing unit tests around resize
+
+v0.1.0
+==================
+* Uprev
+
+v0.0.7
+==================
+* Fixed auto_ghp
+
+v0.0.6
+==================
+* Added auto_ghp
+
 v0.0.5
 ==================
 * Fixed demo page for IE
