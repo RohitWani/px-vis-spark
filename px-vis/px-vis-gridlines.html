@@ -33,10 +33,13 @@ The gridlines still make use of the d3.axis object, just with different settings
 @homepage index.html
 @demo demo.html
 -->
-<dom-module id="px-vis-gridlines">
-    <link rel="import" type="css" href="css/px-vis.css"/>
-    <template>
 
+<link rel="import" href="css/px-vis-styles.html">
+
+<dom-module id="px-vis-gridlines">
+    <template>
+      <style include="px-vis-styles"></style>
+      <style include="px-theme-styles"></style>
     </template>
 </dom-module>
 
@@ -158,7 +161,9 @@ The gridlines still make use of the d3.axis object, just with different settings
           }
 
           if(this.tickValues && this.tickValues.length > 0) {
-            this._grid.tickValues(this.tickValues);
+            if(!isNaN(this.axis.domain()[0]) && !isNaN(this.axis.domain()[1])){
+              this._grid.tickValues(this.tickValues);
+            }
           }
 
           // TODO dev set # of gridlines
