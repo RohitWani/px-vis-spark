@@ -1,6 +1,6 @@
 {
   "name": "px-simple-win-loss-chart",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": [
     "px-simple-win-loss-chart.html"
   ],
@@ -38,7 +38,7 @@
     "iron-demo-helpers": "PolymerElements/iron-demo-helpers#~1.2.3",
     "px-tabs": "~0.5.2",
     "px-api-viewer": "^0.1.0",
-    "px-demo-snippet": "^0.5.2",
+    "px-demo-snippet": "^0.6.4",
     "px-list-inline-design": "^0.2.11",
     "px-toggle-design": "^0.2.12",
     "px-headings-design": "^0.2.14",
@@ -48,11 +48,11 @@
     "px-polymer-font-awesome": "^0.1.9"
   },
   "homepage": "https://github.com/PredixDev/px-simple-win-loss-chart",
-  "_release": "0.1.0",
+  "_release": "0.1.1",
   "_resolution": {
     "type": "version",
-    "tag": "v0.1.0",
-    "commit": "3dfeb7efc4994ec4a73daa25fde46f85636a50fb"
+    "tag": "v0.1.1",
+    "commit": "4dff128358f1d3a0994cfffeee6fd1ff6d16a8b9"
   },
   "_source": "https://github.com/PredixDev/px-simple-win-loss-chart.git",
   "_target": "^0.1.0",
