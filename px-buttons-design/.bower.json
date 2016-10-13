@@ -1,6 +1,6 @@
 {
   "name": "px-buttons-design",
-  "version": "0.4.29",
+  "version": "0.4.30",
   "authors": [
     "General Electric",
     "Harry Roberts <harry@csswizardry.com>"
@@ -31,11 +31,11 @@
     "px-starter-kit-design": "~0.6.0",
     "px-polymer-font-awesome": "~0.1.9"
   },
-  "_release": "0.4.29",
+  "_release": "0.4.30",
   "_resolution": {
     "type": "version",
-    "tag": "v0.4.29",
-    "commit": "1eadee3e2378c1bb133a7fa07714981ae554b130"
+    "tag": "v0.4.30",
+    "commit": "c73145b7bb534a0087aadca193a066e3250e7301"
   },
   "_source": "https://github.com/predixDev/px-buttons-design.git",
   "_target": "^0.4.26",

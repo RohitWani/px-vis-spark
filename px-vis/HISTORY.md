@@ -1,3 +1,16 @@
+v0.6.4
+==================
+* Updated docs across all components
+
+v0.6.3
+==================
+* ensure brushing works when resizing
+
+v0.6.2
+==================
+* added rect clip path for canvas
+* update docs
+
 v0.6.1
 ==================
 * ensure brush initializes
